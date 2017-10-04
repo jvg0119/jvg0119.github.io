@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Blocipedia
+title: WikiLand
 feature-img: "img/sample_feature_img.png"
-# thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
-thumbnail-path: "img/blocipedia.png"
+thumbnail-path: "img/wikiland.png"
 short-description: To create/collaborate wikis.
-
 ---
 
-<a class="button" href="https://github.com/jvg0119/blocipedia3" target="_blank_">
+![](/img/wikiland.png){: height="500px"}
+
+<a class="button" href="https://github.com/jvg0119/wikiland" target="_blank_">
   to github
 </a>
-<a class="button" href="https://blocipedia3-joe.herokuapp.com/index" target="_blank_">
+<a class="button" href="https://wikiland-app.herokuapp.com/" target="_blank_">
   to project
 </a>
 
